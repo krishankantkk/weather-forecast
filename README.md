@@ -3,7 +3,9 @@
 # Weather-Forecast
 
 ## Introduction 
-Created a fully functional Weather forecast web app using React and OpenWeather API
+Created a fully functional Weather forecast web app using React and OpenWeather API 
+
+https://weather-farcast-kk.netlify.app/
 
 ## Features
 
@@ -12,8 +14,6 @@ Created a fully functional Weather forecast web app using React and OpenWeather 
 - Toggle button for units Celsius and Fahrenheit
 - Forecast for 5 days with average temp, and weather details
 - Responsiveness for mobile and desktops 
-
-
 
 ## Tools
 
