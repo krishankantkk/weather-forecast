@@ -9,6 +9,8 @@ https://weather-farcast-kk.netlify.app/
 
 ## Features
 
+![Screenshot 2024-02-07 235444](https://github.com/krishankantkk/weather-forecast/assets/93835021/ad0002ff-0967-473f-878f-6c876a982347)
+
 - Current weather by current location using GeoLocation
 - Search city name and get weather details
 - Toggle button for units Celsius and Fahrenheit
